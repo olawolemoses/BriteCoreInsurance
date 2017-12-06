@@ -33,5 +33,5 @@ Deliverables are:
 
 2. **Hosted at** 
 - http://todev.com.ng:8800/
+- http://todev.com.ng:8800/base/risktype/1
 - http://todev.com.ng:8800/base/risktype/all/
-- http://todev.com.ng:8800/base/risktype/1/
