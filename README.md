@@ -14,7 +14,7 @@ Deliverables are:
 [Controller Endpoints](app/base/controllers.py)
 
 1. returns a single risk type
-@base.route('/risktype/<int:pk>', methods=['GET'])
+@base.route('/risktype//<int:pk/>', methods=['GET'])
 
 2. returns all risk types
 @base.route('/risktype/all/', methods=['GET'])
