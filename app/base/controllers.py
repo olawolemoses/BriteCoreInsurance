@@ -20,10 +20,10 @@ from app.base.models import RiskField, RiskFieldType, RiskType, RiskTypeSchema, 
 base = Blueprint('base', __name__, url_prefix='/base', static_folder='static')
 
 # Set the route and accepted methods
-@base.route('/signin/', methods=['GET', 'POST'])
+@base.route('/', methods=['GET', 'POST'])
 def signin():
 
-    return render_template("base/signin.html", )
+    return render_template("base/index.html", )
 
 from flask_json import JsonError, json_response, as_json
 from sqlalchemy.exc import IntegrityError
