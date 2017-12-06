@@ -28,7 +28,7 @@ Deliverables are:
 
 
 ## Finished
-1. [Video running the code](./video)
+1. [Video running the code](https://drive.google.com/open?id=1uR76ukHGMtHRq7tuJUZ64Udx5U_2QAYB)
 2. [Screenshots](./Screenshots)
 
 2. **Hosted at** 
