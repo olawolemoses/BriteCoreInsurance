@@ -4,8 +4,9 @@ A solution that allows insurers to define their own custom data model for their 
 ## Deliverables
 
 ### Data
+
 1. [A Python file containing the ORM classes for these tables](app/base/models.py)
-2. [An entity relationship diagram, which depicts the tables and their relationship to one another](./EERD.png)
+2. ![An entity relationship diagram, which depicts the tables and their relationship to one another](./EERD.png)
 
 ### Backend
 
