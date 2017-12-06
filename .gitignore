@@ -1,3 +1,17 @@
+# Build and Release Folders
+env/
+bin/
+bin-debug/
+bin-release/
+
+# Other files and folders
+.settings/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
 *.pyc
 .idea
 .noseids
